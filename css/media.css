@@ -1,0 +1,665 @@
+/*====================== Extra small devices 
+================================================================*/
+@media (max-width: 479.98px) {
+
+    /*========== Top_hadding part start ==========*/
+    
+
+    .logo a img {
+        padding-top: 10px;
+        width: 45%;
+    }
+    .logo {
+        width: 85%;
+        float: none;
+    }
+    .logo1 {
+        display: none;
+    }
+    .header_text {
+        width: 100%;
+    }
+    .menu {
+        width: 100%;
+        text-align: center;
+    }
+    #top_hadding {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .header_text {
+        line-height: 20px;
+    }
+    .menu ul {
+        line-height: 39px;
+    }
+    /*========== Navbar part start ==========*/
+    .navbar {
+        border-bottom: 1px solid #fff;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background: #fff;
+    }
+    .seartch_box {
+        display: none;
+    }
+    .navbar {
+        width: 100%;
+        z-index: 910;
+    }
+    
+    .en-edition {
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        color: #000;
+        border: 0;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .fa.fa-bars {
+        color: #000;
+        font-size: 26px;
+    }
+
+    .navbar-nav .nav-item {
+        background: #fff;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        font-weight: 600;
+        color: #000;
+        text-transform: capitalize;
+        letter-spacing: 1px;
+        transition: all linear .3s;
+        padding: 10px 20px;
+        border-left: none;
+        border-bottom: 2px solid #ddd;
+    }
+
+    #bt-3 {
+        box-shadow: 0px 0px 5px 2px #ddd;
+    }
+
+    .navbarSupportedContent {
+        padding-top: 30px;
+    }
+
+    .pat-3 {
+        padding-top: 20px;
+    }
+
+
+
+    
+   
+    
+    /*=========== Banner part start ===========*/
+    #banner {
+        background: #2d2983;
+        padding-top: 10px;
+        margin-top: 0;
+        padding-bottom: 10px;
+    }
+    .banner_slider2 {
+        padding-bottom: 110px;
+        padding-top: 110px;
+    }
+    .banner_slider1 {
+        padding-bottom: 110px;
+        padding-top: 110px;
+    }
+    .padings_11 {
+        padding-bottom: 20px;
+    }
+    .fotter_hed {
+        padding-top: 10px;
+    }
+    /*=======================================================================
+    ============================== Cetagory part start ======================
+    =======================================================================*/
+    .ads {
+        padding-bottom: 20px;
+    }
+    .read_more_btn {
+        margin-bottom: 20px;
+    }
+    
+    
+    
+    
+    /*=======================================================================
+    =============================== Post part start =========================
+    =======================================================================*/
+    .pubsish_d {
+        width: 50%;
+    }
+    .social_share {
+        float: left;
+        width: 50%;
+    }
+    #post_page {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+
+}
+
+
+
+
+
+
+/*=========================== Extra small 2 devices 
+=======================================================================*/
+@media (min-width: 480px) and (max-width: 575.98px) {
+
+    /*========== Top_hadding part start ==========*/
+    .logo a img {
+        padding-top: 10px;
+        width: 45%;
+    }
+    .logo {
+        width: 85%;
+        float: none;
+    }
+    .logo1 {
+        display: none;
+    }
+    .header_text {
+        width: 100%;
+    }
+    .menu {
+        width: 100%;
+        text-align: center;
+    }
+    #top_hadding {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .header_text {
+        line-height: 20px;
+    }
+    .menu ul {
+        line-height: 39px;
+    }
+    /*========== Navbar part start ==========*/
+    .navbar {
+        border-bottom: 1px solid #fff;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background: #fff;
+    }
+    .seartch_box {
+        display: none;
+    }
+    .navbar {
+        width: 100%;
+        z-index: 910;
+    }
+    .en-edition {
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        color: #000;
+        border: 0;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .fa.fa-bars {
+        color: #000;
+        font-size: 26px;
+    }
+
+    .navbar-nav .nav-item {
+        background: #fff;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        font-weight: 600;
+        color: #000;
+        text-transform: capitalize;
+        letter-spacing: 1px;
+        transition: all linear .3s;
+        padding: 10px 20px;
+        border-left: none;
+        border-bottom: 2px solid #ddd;
+    }
+
+    #bt-3 {
+        box-shadow: 0px 0px 5px 2px #ddd;
+    }
+
+    .navbarSupportedContent {
+        padding-top: 30px;
+    }
+
+    .pat-3 {
+        padding-top: 20px;
+    }
+
+
+
+    
+   
+    
+    /*=========== Banner part start ===========*/
+    #banner {
+        background: #2d2983;
+        padding-top: 10px;
+        margin-top: 0;
+        padding-bottom: 10px;
+    }
+    .banner_slider2 {
+        padding-bottom: 110px;
+        padding-top: 110px;
+    }
+    .banner_slider1 {
+        padding-bottom: 110px;
+        padding-top: 110px;
+    }
+    .padings_11 {
+        padding-bottom: 20px;
+    }
+    .fotter_hed {
+        padding-top: 10px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+/*=========================== Small devices 
+=======================================================================*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /*=========== TOP-HADDING part start ===========*/
+    .logo a img {
+        padding-top: 10px;
+        width: 45%;
+    }
+    .logo {
+        width: 85%;
+        float: none;
+    }
+    .logo1 {
+        display: none;
+    }
+    .header_text {
+        width: 100%;
+    }
+    .menu {
+        width: 100%;
+        text-align: center;
+    }
+    #top_hadding {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .header_text {
+        line-height: 20px;
+    }
+    .menu ul {
+        line-height: 39px;
+    }
+    /*========== Navbar part start ==========*/
+    .navbar {
+        border-bottom: 1px solid #fff;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background: #fff;
+    }
+    .seartch_box {
+        display: none;
+    }
+    .navbar {
+        width: 100%;
+        z-index: 910;
+    }
+    .en-edition {
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        color: #000;
+        border: 0;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .fa.fa-bars {
+        color: #000;
+        font-size: 26px;
+    }
+
+    .navbar-nav .nav-item {
+        background: #fff;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        font-weight: 600;
+        color: #000;
+        text-transform: capitalize;
+        letter-spacing: 1px;
+        transition: all linear .3s;
+        padding: 10px 20px;
+        border-left: none;
+        border-bottom: 2px solid #ddd;
+    }
+
+    #bt-3 {
+        box-shadow: 0px 0px 5px 2px #ddd;
+    }
+
+    .navbarSupportedContent {
+        padding-top: 30px;
+    }
+
+    .pat-3 {
+        padding-top: 20px;
+    }
+
+
+
+    
+   
+    
+    /*=========== Banner part start ===========*/
+    #banner {
+        background: #2d2983;
+        padding-top: 10px;
+        margin-top: 0;
+        padding-bottom: 10px;
+    }
+    .banner_slider2 {
+        padding-bottom: 110px;
+        padding-top: 110px;
+    }
+    .banner_slider1 {
+        padding-bottom: 110px;
+        padding-top: 110px;
+    }
+    .padings_11 {
+        padding-bottom: 20px;
+    }
+    #full_cuntry .tab-text a {
+        font-size: 12px;
+        font-weight: 400;
+        color: #000;
+        line-height: 22px;
+    }
+    .cetagory_item_h {
+        background: #f1f1f1;
+        padding: 15px;
+        height: 250px;
+        margin-bottom: 30px;
+    }
+    /*=======================================================================
+    ============================== Cetagory part start ======================
+    =======================================================================*/
+    .ads {
+        padding-bottom: 20px;
+    }
+    .read_more_btn {
+        margin-bottom: 20px;
+    }
+    
+    .cetagory_item_text {
+        background: #fff;
+        padding-left: 10px;
+    }
+    #cc::after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 4px;
+        top: 54px;
+        left: 0;
+        background: #d03d38;
+    }
+    
+
+}
+
+
+
+
+/*============================ Medium devices 
+=========================================================================*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /*=========== TOP-HADDING part start ===========*/
+    .logo a img {
+        width: 45%;
+    }
+    .logo {
+        width: 85%;
+        float: none;
+    }
+    .logo1 {
+        display: none;
+    }
+    .header_text {
+        width: 100%;
+    }
+    .menu {
+        width: 100%;
+        text-align: center;
+    }
+    #top_hadding {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .header_text {
+        line-height: 20px;
+    }
+    .menu ul {
+        line-height: 39px;
+    }
+    /*========== Navbar part start ==========*/
+    .navbar {
+        border-bottom: 1px solid #fff;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background: #fff;
+    }
+    .seartch_box {
+        display: none;
+    }
+    .navbar {
+        width: 100%;
+        z-index: 910;
+    }
+    .en-edition {
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        color: #000;
+        border: 0;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .fa.fa-bars {
+        color: #000;
+        font-size: 26px;
+    }
+
+    .navbar-nav .nav-item {
+        background: #fff;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        font-weight: 600;
+        color: #000;
+        text-transform: capitalize;
+        letter-spacing: 1px;
+        transition: all linear .3s;
+        padding: 10px 20px;
+        border-left: none;
+        border-bottom: 2px solid #ddd;
+    }
+
+    #bt-3 {
+        box-shadow: 0px 0px 5px 2px #ddd;
+    }
+
+    .navbarSupportedContent {
+        padding-top: 30px;
+    }
+
+    .pat-3 {
+        padding-top: 20px;
+    }
+    .cetagory_item_h {
+        background: #f1f1f1;
+        padding: 15px;
+        height: 250px;
+        margin-bottom: 30px;
+    }
+   .gall_pik {
+        margin-bottom: 17px;
+    }
+    .ban_small_news p {
+        font-size: 14px;
+        color: #fff;
+        font-weight: 400;
+    }
+    .banner_slider2 {
+        padding-top: 152px;
+        padding-bottom: 152px;
+    }
+    .banner_slider1 {
+        padding-top: 152px;
+        padding-bottom: 152px;
+    }
+    /*=======================================================================
+    ============================== Cetagory part start ======================
+    =======================================================================*/
+    
+    .cetagory_item_text a h6 {
+        font-size: 16px;
+        font-weight: 500;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 10px;
+    }
+    .cetagory_item_text p {
+        font-size: 11px;
+        font-weight: 400;
+        padding-right: 10px;
+    }
+    .cetagory_item_text a p {
+        font-size: 10px;
+        font-weight: 500;
+        padding-top: 6px;
+        padding-right: 10px;
+    }
+
+
+    
+    
+    
+
+
+
+}
+
+/*============================ Large devices 
+=========================================================================*/
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .gall_pik {
+        margin-bottom: 17px;
+    }
+    .logo a img {
+        padding-top: 0;
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 13px;
+        padding: 15px 5px;
+    }
+    .cetagory_item_text a p {
+        font-size: 14px;
+        font-weight: 500;
+        padding-top: 6px;
+        padding-right: 10px;
+    }
+    .menu {
+        width: 35%;
+    }
+    .header_text {
+        width: 45%;
+    }
+
+
+
+}
+
+/*============================ Extra Large devices 
+=========================================================================*/
+@media (min-width: 1200px) and (max-width: 1299.98px) {
+
+    .navbar .logo {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        padding: 15px 5px;
+    }
+
+}
+/*============================ Extra Large devices 
+=========================================================================*/
+@media (min-width: 1300px) {
+
+    .navbar .logo {
+        display: none;
+    }
+    
+
+}
